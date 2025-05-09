@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ullas! 👋</h1>
-<h3 align="center">Full Stack Developer | Java & MERN Stack Enthusiast</h3>
+<h3 align="center">Java Full Stack Developer</h3>
 
 ---
 
