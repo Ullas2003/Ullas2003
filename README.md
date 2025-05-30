@@ -5,7 +5,7 @@
 
 ### 🚀 About Me
 - Passionate about building full-stack applications using modern technologies.
-- Skilled in **Java**, **React**, and **Node.js**.
+- Skilled in **Java FullStack Development**.
 - Always eager to learn and contribute to open-source projects.
 
 ---
@@ -59,6 +59,6 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ullas2003/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ullas-r-200334301"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:ullas.dev2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
